@@ -22,3 +22,25 @@ function solution(my_string) {
 현재 인덱스 (idx)
 원본 배열 (src)
 */
+
+function solution(my_string) {
+  return Array.from(my_string)
+    .map((_, i) => my_string.substring(i))
+    .sort();
+}
+/**
+ * 눈길이 간 코드
+ * 
+ * String.prototype.substring()
+ * .substring() 에 대해서 알게되었다.
+ * substring() 메소드는 string 객체의 시작 인덱스로 부터 종료 인덱스 전 까지 문자열의 부분 문자열을 반환합니다.
+ * https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/substring
+ */
+
+function solution(my_string) {
+    return [...my_string]
+      .map((_, i) => my_string.substring(i))
+      .sort();
+  }
+
+// 이렇게도 풀 수 있을 거 같다.
