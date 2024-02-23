@@ -5,3 +5,5 @@
 [my notion](https://www.notion.so/a826397e2e16440996a911a1cff70e9a)
 
 [velog](https://velog.io/@kiminn/posts)
+
+[인프런](https://www.inflearn.com/user/courses?due=not_expired)
