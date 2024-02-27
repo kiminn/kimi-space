@@ -7,3 +7,5 @@
 [velog](https://velog.io/@kiminn/posts)
 
 [인프런](https://www.inflearn.com/user/courses?due=not_expired)
+
+[deepdive](https://docs.google.com/spreadsheets/d/1-7V_po0-FyWRaT8_um9nPkDPbdeEb2qPtAo8PAUI5G8/edit#gid=0)
